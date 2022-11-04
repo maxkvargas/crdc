@@ -1,2 +1,1 @@
-# crdc
-# The aim of this project was to uncover the inequity in discipline, access, and opportunity in high schools, especially among Black and white students.  
+# the crdc dataset is from a national public school survey conducted by the US department of education
